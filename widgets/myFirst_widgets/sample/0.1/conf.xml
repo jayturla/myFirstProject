@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.myFirst.widgets.SampleWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>sample</label>
+  <description>sample</description>
+</widget>
